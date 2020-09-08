@@ -20,6 +20,7 @@ public class Book extends BaseEntity {
     private LocalDate publishDate;
     private String isbn;
     private String desc;
+    private Double price;
 
 
 }
